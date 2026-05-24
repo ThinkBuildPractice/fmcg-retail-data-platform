@@ -1,4 +1,5 @@
 pyspark
 apache-airflow
+delta-spark
 pandas
 numpy
